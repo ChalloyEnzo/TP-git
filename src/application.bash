@@ -1,4 +1,4 @@
- ### Application.bash - 2019 - CHALLOY###
+ ### Application.bash - 2019 - CHALLOY SPILMONT QUENTIN###
 
 echo "Copyright IIA- 2019"
 
